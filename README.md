@@ -29,16 +29,30 @@ Translation for English, German, French, Italian and Dutch are included. If you 
 If you like the Card, I would appreciate a Star rating ⭐ from you. 🤗
 
 ## Features
-- ### 🔆 **Sun Position – Classic Display**  
-- ### 🌅 **Sun Position – Calculated Display**  
-- ### 🌄 **Sun Position – Calculated Arc**  
-- ### 🌙 **Moon Phases – Visual Display**  
-- ### 🎞️ **Animated Sun Position**  
-- ### ⏰ **Customizable Times**  
-- ### 🌤️ **Weather Status** - NEW
-- ### 📐 **Flexible Layout**  
-- ### 📍 **Adjustable Thresholds**  
-- ### ⚙️ **UI Configuration**  
+- ### 🔆 **Sun Position – Classic Display**
+- ### 🌅 **Sun Position – Calculated Display**
+- ### 🌄 **Sun Position – Calculated Arc**
+- ### 🌙 **Moon Phases – Visual Display**
+- ### 🎞️ **Animated Sun Position**
+- ### ⏰ **Customizable Times**
+- ### 🌤️ **Weather Status**
+- ### 📐 **Flexible Layout**
+- ### 📍 **Adjustable Thresholds**
+- ### ⚙️ **UI Configuration**
+- ### 🌐 **Manual Language Selection** 
+- ### 🔋 **Solar Power Badge**
+- ### 🆕 **Dropdowns compatible with HA 2026.3+** 
+---
+
+## Changelog
+
+### 08.03.2026
+- **Dropdowns fixed for Home Assistant 2026.3+**: All dropdowns migrated to ha-selector (select type) for compatibility
+- **Manual language selection**: New dropdown in the editor to override Home Assistant language
+- **Azimuth/Elevation split lines**: Option to show azimuth and elevation in separate lines in the time list
+- **Solar power badge**: Optional entity and badge for solar power, shown left above the image
+
+See info.md for detailed planning and feature history.
 
 <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card.png" /> <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card2.png" />
 <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card4.png" /> <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card5.png" />

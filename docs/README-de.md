@@ -25,16 +25,20 @@ Wenn euch die custom Card gefällt, würde ich mich sehr über eine Sternebewert
 
 ## Features
 
-- ### 🔆 **Sonnestand klassische Darstellung**  
-- ### 🌅 **Sonnestand berechnete Darstellung**  
-- ### 🌄 **Sonnestand berechneter Bogen**  
-- ### 🌙 **Mondphasen – visuelle Darstellung**  
-- ### 🎞️ **Animierter Sonnenstand**  
-- ### ⏰ **Anpassbare Zeiten**  
-- ### 🌤️ **Wetter Status** - NEU
-- ### 📐 **Flexibles Layout**  
-- ### 📍 **Anpassbare Schwellenwerte**  
-- ### ⚙️ **UI-Konfiguration**  
+- ### 🔆 **Sonnestand klassische Darstellung**
+- ### 🌅 **Sonnestand berechnete Darstellung**
+- ### 🌄 **Sonnestand berechneter Bogen**
+- ### 🌙 **Mondphasen – visuelle Darstellung**
+- ### 🎞️ **Animierter Sonnenstand**
+- ### ⏰ **Anpassbare Zeiten**
+- ### 🌤️ **Wetter Status**
+- ### 📐 **Flexibles Layout**
+- ### 📍 **Anpassbare Schwellenwerte**
+- ### ⚙️ **UI-Konfiguration**
+- ### 🌐 **Manuelle Sprachauswahl** 
+- ### 🔋 **Solarleistungs-Badge** 
+- ### 🆕 **Dropdowns kompatibel mit HA 2026.3+**
+---
 
 
 <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card.png" /> <img width="48%" height="auto" alt="image" src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card2.png" />
